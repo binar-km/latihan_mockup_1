@@ -231,3 +231,14 @@
 .text-blue {
     color: #69baf4;
 }
+
+.map {
+    position: relative;
+    background-image: url();
+    background-size: cover;
+    display: flex;
+}
+
+.contact-us {
+
+}
